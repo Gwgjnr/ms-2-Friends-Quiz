@@ -5,7 +5,7 @@
 
 body {
     background: url(../images/Optimized-shutterstock_1370652038.jpg) no-repeat center center;
-    background-color: #cccccc;
+    background-color: white;
     background-position: center;
     object-fit: fill;
     width: 100vw;
@@ -20,17 +20,17 @@ body {
   }
 
 .button {
-   background-color: #4CAF50; /* Green */
+   background-color: #7EB2DD;
    border: none;
    color: white;
-   padding: 15px 32px;
+   padding: 1rem 2rem;
    text-align: center;
    text-decoration: none;
    display: inline-block;
-   font-size: 16px;
-   margin-top: 2rem;
+   font-size: 1rem;
+   margin-top: 3rem;
    border-radius: 25px;
-   width: 145px;
+   width: 9rem;
   }
 
 h1 {
@@ -38,4 +38,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 2.5rem;
+    margin-top: 10rem;
+    text-transform: uppercase;
+    letter-spacing: 0.25rem;
 }
+
