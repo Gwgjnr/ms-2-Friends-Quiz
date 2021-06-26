@@ -48,7 +48,18 @@ h1 {
    font-size: 2.5rem;
    margin-top: 10rem;
    text-transform: uppercase;
-    letter-spacing: 0.25rem;
+   letter-spacing: 0.25rem;
+}
+
+h2 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2.5rem;
+   margin-top: 10rem;
+   text-transform: uppercase;
+   letter-spacing: 0.25rem;
+
 }
 
 #question-container {
@@ -56,4 +67,19 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.fake-button {
+  display: block;
+  width: 8rem;
+  height: 25px;
+  background: #7EB2DD;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  line-height: 25px;
+  border-radius: 25%;
+  margin-top: 3rem;
+  text-decoration: none;
 }
