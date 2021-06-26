@@ -3,12 +3,12 @@
     padding: 0;
 }
 
-body {
+#background-image-holder {
     background: url(../images/Optimized-shutterstock_1370652038.jpg) no-repeat center center;
     background-color: white;
     background-position: center;
     object-fit: fill;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
   }
 
@@ -33,14 +33,27 @@ body {
    width: 9rem;
   }
 
+.button:hover {
+   cursor: pointer;
+   box-shadow: 0 0.4rem 0.4rem 0 gray;
+   transition: 200ms;
+   transform: scale(1.05);
+  }
+
 h1 {
-    color: azure;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 2.5rem;
-    margin-top: 10rem;
-    text-transform: uppercase;
+   color: #ffbb33;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2.5rem;
+   margin-top: 10rem;
+   text-transform: uppercase;
     letter-spacing: 0.25rem;
 }
 
+#question-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
