@@ -3,11 +3,39 @@
     padding: 0;
 }
 
-#background-image-holder {
+body {
     background: url(../images/Optimized-shutterstock_1370652038.jpg) no-repeat center center;
-    background-size: 100%;
-    padding: 10px;
-    margin: 10px;
-    height: 1000px;
-    opacity: 90%;
+    background-color: #cccccc;
+    background-position: center;
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
   }
+
+#main-menu-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.button {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin-top: 2rem;
+   border-radius: 25px;
+   width: 145px;
+  }
+
+h1 {
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
