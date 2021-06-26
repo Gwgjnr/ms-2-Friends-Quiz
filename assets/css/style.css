@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#background-image-holder {
+    background: url(../images/Optimized-shutterstock_1370652038.jpg) no-repeat center center;
+    background-size: 100%;
+    padding: 10px;
+    margin: 10px;
+    height: 1000px;
+    opacity: 90%;
+  }
