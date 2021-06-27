@@ -5,8 +5,8 @@ const highScoreModal = document.getElementById("highScoreModal");
 const highScoreBtn = document.getElementById("highScoreButton");
 
 const span = document.getElementsByClassName("close")[0];
+const span1 = document.getElementsByClassName("close")[1];
 
-// 
 
 instructionBtn.onclick = function() {
     instructionModal.style.display = "block";
@@ -26,7 +26,7 @@ highScoreBtn.onclick = function() {
   highScoreModal.style.display = "block";
 }
 
-span.onclick1 = function() {
+span1.onclick = function() {
   highScoreModal.style.display = "none";
 }
 
