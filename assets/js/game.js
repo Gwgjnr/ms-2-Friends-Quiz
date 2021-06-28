@@ -4,16 +4,24 @@ const optionB = document.getElementById("optionB");
 const optionC = document.getElementById("optionC");
 const optionD = document.getElementById("optionD");
 
+pickQuestion()
+
 function pickQuestion(){
     const randomQuestion = Math.floor(Math.random() * questionsArray.length);
     currentQ = questionsArray[randomQuestion];
-    loadQuestion(currentAskQuestion);
+    loadQuestion(currentQ);
 
     // still need to remove the q when selected.
 }
 
 function loadQuestion(){
-// use inner.html to display
+    const q = currentQ;
+    
+    question.innerHTML = q.question;
+    optionA.innerHTML = q.optionA;
+    optionB.innerHTML = q.optionB;
+    optionC.innerHTML = q.optionC;
+    optionD.innerHTML = q.optionD;
 }
 
 function checkCorrect(){

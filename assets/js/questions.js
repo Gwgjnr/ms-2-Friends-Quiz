@@ -21,6 +21,6 @@ let questionsArray = [
         optionB: "Marcel",
         optionC: "Michael",
         optionD: "Mufasa",
-        answer: "D"
+        answer: "B"
     },
 ]

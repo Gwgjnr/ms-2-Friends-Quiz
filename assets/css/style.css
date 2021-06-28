@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/* May need to remove this if decide not use bg image */
+
 #background-image-holder {
     background: url(../images/Optimized-shutterstock_1370652038.jpg) no-repeat center center;
     background-color: white;
@@ -46,7 +48,7 @@ h1 {
    justify-content: center;
    align-items: center;
    font-size: 2.5rem;
-   margin-top: 10rem;
+   margin-top: 8rem;
    text-transform: uppercase;
    letter-spacing: 0.25rem;
 }

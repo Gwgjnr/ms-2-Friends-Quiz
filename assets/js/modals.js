@@ -7,7 +7,6 @@ const highScoreBtn = document.getElementById("highScoreButton");
 const span = document.getElementsByClassName("close")[0];
 const span1 = document.getElementsByClassName("close")[1];
 
-
 instructionBtn.onclick = function() {
     instructionModal.style.display = "block";
 }
