@@ -15,22 +15,10 @@ span.onclick = function() {
     instructionModal.style.display = "none";
 }
 
-window.onclick = function(event) {
-  if (event.target == modal) {
-    instructionModal.style.display = "none";
-  }
-}
-
 highScoreBtn.onclick = function() {
   highScoreModal.style.display = "block";
 }
 
 span1.onclick = function() {
   highScoreModal.style.display = "none";
-}
-
-window.onclick = function(event) {
-if (event.target == modal) {
-  highScoreModal.style.display = "none";
-}
 }

@@ -24,13 +24,17 @@ function loadQuestion(){
     optionD.innerHTML = q.optionD;
 }
 
-function checkCorrect(){
+function checkCorrect(answers){
+    if( answers == questionsArray[currentQ].answer){
+        score++;
+        pickQuestion();
+    }
+}
+
 // check if correct option is selected
 // plus points if correct
-}
 
 function showHighScore(){
 // Store in local and display using inner.html
 // will need to remove lowest score
 }
-

@@ -8,20 +8,23 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <div id = "">
+    <div>
         <div id = "question-container"> <!--May be needed for adding score counter-->
             <h2 id="question"></h2>
             <div class="option-container">
-                <button id = "optionA" class="option-letter button">A</button>
+                <button id = "optionA" class="option-letter button" onclick="checkCorrect('A')">A</button>
             </div>
             <div class="option-container">
-                <button id = "optionB" class="option-letter button">B</button>
+                <button id = "optionB" class="option-letter button" onclick="checkCorrect('B')">B</button>
             </div>
             <div class="option-container">
-                <button id = "optionC" class="option-letter button">C</button>
+                <button id = "optionC" class="option-letter button" onclick="checkCorrect('C')">C</button>
             </div>
             <div class="option-container">
-                <button id = "optionD" class="option-letter button">D</button>
+                <button id = "optionD" class="option-letter button" onclick="checkCorrect('D')">D</button>
+            </div>
+            <div id = "score-container"> 
+                <h3>Score: </h3>
             </div>
         </div>
     </div>
