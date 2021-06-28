@@ -16,7 +16,7 @@ function loadQuestion(){
 // use inner.html to display
 }
 
-function checkOption(){
+function checkCorrect(){
 // check if correct option is selected
 // plus points if correct
 }

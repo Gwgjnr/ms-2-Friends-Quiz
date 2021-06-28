@@ -72,14 +72,14 @@ h2 {
 .fake-button {
   display: block;
   width: 8rem;
-  height: 25px;
+  height: 1.6rem;
   background: #7EB2DD;
-  padding: 10px;
+  padding: 0.65rem;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 0.3rem;
   color: white;
-  line-height: 25px;
-  border-radius: 25%;
+  line-height: 1.6rem;
+  border-radius: 25px;
   margin-top: 3rem;
   text-decoration: none;
 }
@@ -142,12 +142,12 @@ footer {
 
 .social-networks > li {
   display: inline-block;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 .social-networks i {
   font-size: 160%;
   margin: 1%;
   padding: 5%;
-  color: #7EB2DD;
+  color: #ffbb33;
 }
