@@ -3,6 +3,7 @@ const instructionModal = document.getElementById("instructionModal");
 const instructionBtn = document.getElementById("instructionButton");
 const highScoreModal = document.getElementById("highScoreModal");
 const highScoreBtn = document.getElementById("highScoreButton");
+const gameOverModal = document.getElementById("gameOverModal");
 
 const span = document.getElementsByClassName("close")[0];
 const span1 = document.getElementsByClassName("close")[1];
@@ -22,3 +23,4 @@ highScoreBtn.onclick = function() {
 span1.onclick = function() {
   highScoreModal.style.display = "none";
 }
+
