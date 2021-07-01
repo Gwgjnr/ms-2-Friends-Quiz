@@ -15,6 +15,9 @@ pickQuestion()
 function pickQuestion(){
     const randomQuestion = Math.floor(Math.random() * questionsArray.length);
     currentQ = questionsArray[randomQuestion];
+
+    
+
     loadQuestion(currentQ);
 
     // still need to remove the q when selected.
