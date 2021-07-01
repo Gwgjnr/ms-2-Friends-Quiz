@@ -3,6 +3,11 @@ const optionA = document.getElementById("optionA");
 const optionB = document.getElementById("optionB");
 const optionC = document.getElementById("optionC");
 const optionD = document.getElementById("optionD");
+const scoreCon = document.getElementById("score_tracker");
+const max_questions = 10;
+
+let question_tracker = 0;
+let score_tracker = 0;
 
 pickQuestion()
 
@@ -25,14 +30,14 @@ function loadQuestion(){
 }
 
 function checkCorrect(answers){
-    if( answers == questionsArray[currentQ].answer){
-        score++;
-        pickQuestion();
+    if( answers == currentQ.answer){
+        score_tracker++
+        scoreCon.innerHTML = score_tracker
+        
     }
+    pickQuestion()
 }
 
-// check if correct option is selected
-// plus points if correct
 
 function showHighScore(){
 // Store in local and display using inner.html
