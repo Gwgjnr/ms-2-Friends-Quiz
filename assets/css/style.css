@@ -68,6 +68,12 @@ h2 {
 
 }
 
+h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  color: #ffbb33;
+}
+
 #question-container {
   display: flex;
   flex-direction: column;
@@ -158,16 +164,6 @@ footer {
   color: #ffbb33;
 }
 
-#score-container {
-  margin-top: 2rem;
-  color: #ffbb33;
-}
-
-#question-tracker-container {
-  margin-top: 2rem;
-  color: #ffbb33;
-}
-
 .question_row {
   display: flex;
   flex-direction: row;
@@ -205,11 +201,26 @@ footer {
     font-size: 1.5rem;
     margin-top: 3rem;
   }
+
+  .button {
+    margin-top: 2rem;
+  }
   
+  #question-tracker-container {
+    padding-top: 0rem;
+  }
 }
 
 @media screen and (max-width: 320px)  {
   h1 {
     font-size: 1.5rem;
+  }
+
+  #question-tracker-container {
+    padding-top: 0rem;
+  }
+
+  .button {
+    margin-top: 1rem;
   }
 }
