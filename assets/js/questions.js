@@ -95,5 +95,52 @@ let questionsArray = [
         optionD: "Ben",
         answer: "C"
     },
-
+    {
+        question: "What’s the name of the grumpy person who works at the coffee shop?",
+        optionA: "Herman",
+        optionB: "Gunther",
+        optionC: "Frasier",
+        optionD: "Eddie",
+        answer: "B"
+    },
+    {
+        question: "Who sang the Friends theme?",
+        optionA: "The Banksys",
+        optionB: "The Rembrandts",
+        optionC: "The Constables",
+        optionD: "The Da Vinci Band",
+        answer: "B"
+    },
+    {
+        question: "What kind of uniform does Joey wear to Monica and Chandler’s wedding?",
+        optionA: "Chef",
+        optionB: "Soldier",
+        optionC: "Fire fighter",
+        optionD: "A baseball player",
+        answer: "B"
+    },
+    {
+        question: "What is the name of Phoebe’s alter-ego?",
+        optionA: "Phoebe Neeby",
+        optionB: "Monica Bing",
+        optionC: "Regina Phalange",
+        optionD: "Elaine Benes",
+        answer: "C"
+    },
+    {
+        question: "What is the name of Rachel’s Sphynx cat?",
+        optionA: "Baldy",
+        optionB: "Mrs. Whiskerson",
+        optionC: "Sid",
+        optionD: "Felix",
+        answer: "B"
+    },
+    {
+        question: "What kind of uniform does Joey wear to Monica and Chandler’s wedding?",
+        optionA: "Chef",
+        optionB: "Soldier",
+        optionC: "Fire fighter",
+        optionD: "A baseball player",
+        answer: "B"
+    },
 ]
