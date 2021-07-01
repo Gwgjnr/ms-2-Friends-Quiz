@@ -4,9 +4,10 @@ const optionB = document.getElementById("optionB");
 const optionC = document.getElementById("optionC");
 const optionD = document.getElementById("optionD");
 const scoreCon = document.getElementById("score_tracker");
+const questionCon = document.getElementById("question_tracker");
 const max_questions = 10;
 
-let question_tracker = 0;
+let question_tracker = 1;
 let score_tracker = 0;
 
 pickQuestion()
@@ -32,9 +33,11 @@ function loadQuestion(){
 function checkCorrect(answers){
     if( answers == currentQ.answer){
         score_tracker++
-        scoreCon.innerHTML = score_tracker
+        scoreCon.innerHTML = score_tracker + " correct";
         
     }
+    question_tracker++
+    questionCon.innerHTML = "Question " + question_tracker + "/10";
     pickQuestion()
 }
 
