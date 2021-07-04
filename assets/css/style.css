@@ -6,43 +6,12 @@
     font-family: 'Roboto', sans-serif;
 }
 
-/* May need to remove this if decide not use bg image */
-
 body {
   background-color: #B800B8;
 }
 
-#main-menu-flex {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-.button {
-   font-weight: bold;
-   background-color: #00FFEF;
-   border: none;
-   color: #ffbb33;
-   padding: 1rem 2rem;
-   text-align: center;
-   text-decoration: none;
-   display: inline-block;
-   font-size: 1rem;
-   margin-top: 3rem;
-   border-radius: 25px;
-   width: 9rem;
-  }
-
-.button:hover {
-   cursor: pointer;
-   box-shadow: 0 0.4rem 0.4rem 0 gray;
-   transition: 200ms;
-   transform: scale(1.05);
-  }
-
 h1 {
-   font-family: 'Gloria Hallelujah';
+   font-family: 'Gloria Hallelujah', sans-serif;
    color: #ffbb33;
    display: flex;
    justify-content: center;
@@ -75,6 +44,14 @@ h3 {
   color: #ffbb33;
 }
 
+footer {
+  height: 9rem;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 #question-container {
   display: flex;
   flex-direction: column;
@@ -97,6 +74,28 @@ h3 {
   margin-top: 3rem;
   text-decoration: none;
 }
+
+.button {
+  font-weight: bold;
+  background-color: #00FFEF;
+  border: none;
+  color: #ffbb33;
+  padding: 1rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  margin-top: 3rem;
+  border-radius: 25px;
+  width: 9rem;
+ }
+
+.button:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 0.4rem 0 gray;
+  transition: 200ms;
+  transform: scale(1.05);
+ }
 
 .fake-button:hover {
   cursor: pointer;
@@ -140,14 +139,6 @@ h3 {
   cursor: pointer;
 }
 
-footer {
-  height: 9rem;
-  width: 100%;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-}
-
 .social-networks {
   text-align: center;
   position: fixed;
@@ -175,6 +166,13 @@ footer {
 
 .option-container {
   padding: 2rem;
+}
+
+#main-menu-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #question-tracker-container {
