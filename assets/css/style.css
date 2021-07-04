@@ -60,6 +60,7 @@ footer {
 }
 
 .fake-button {
+  font-size: xx-large;
   font-weight: bold;
   display: block;
   width: 8rem;
@@ -76,6 +77,7 @@ footer {
 }
 
 .button {
+  font-size: xx-large;
   font-weight: bold;
   background-color: #00FFEF;
   border: none;
