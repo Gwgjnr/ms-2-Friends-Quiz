@@ -159,5 +159,69 @@ let questionsArray = [
         optionD: "Una",
         answer: "B"
     },
+    {
+        question: "What instrument does Phoebe Buffay play?",
+        optionA: "Piano",
+        optionB: "Guitar",
+        optionC: "Flute",
+        optionD: "Tamberine",
+        answer: "B"
+    },
+    {
+        question: "What does Joey never share?",
+        optionA: "His books",
+        optionB: "DVDs",
+        optionC: "Secrets",
+        optionD: "Food",
+        answer: "D"
+    },
+    {
+        question: "What year did Friends first start?",
+        optionA: "1992",
+        optionB: "1993",
+        optionC: "1994",
+        optionD: "1995",
+        answer: "C"
+    },
+    {
+        question: "When Ross and Rachel were on a break, Ross slept with Chloe. Where does she work?",
+        optionA: "Printing Shop",
+        optionB: "Coffee Shop",
+        optionC: "Muesum",
+        optionD: "The bank",
+        answer: "A"
+    },
+    {
+        question: "What plastic surgery did Rachel admit to having?",
+        optionA: "Tummy tuck",
+        optionB: "Brow lift",
+        optionC: "Nose job",
+        optionD: "lip fillers",
+        answer: "C"
+    },
+    {
+        question: "Monica briefly dates billionaire Pete Becker. Which country does he take her for their first date?",
+        optionA: "France",
+        optionB: "Greece",
+        optionC: "Portugal",
+        optionD: "Italy",
+        answer: "D"
+    },
+    {
+        question: "How many pages was Rachel’s letter to Ross about the reasons for their break-up?",
+        optionA: "4 pages",
+        optionB: "8 pages",
+        optionC: "14 pages",
+        optionD: "18 pages",
+        answer: "D"
+    },
+    {
+        question: "Monica and Chandler become an item, after spending the night together in which city?",
+        optionA: "London",
+        optionB: "Paris",
+        optionC: "Rome",
+        optionD: "Las Vegas",
+        answer: "A"
+    },
     
 ]
