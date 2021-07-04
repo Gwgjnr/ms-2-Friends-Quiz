@@ -184,7 +184,7 @@ footer {
   align-items: center; 
 }
 
-@media screen and (max-width: 420px)  {
+@media screen and (max-width: 490px)  {
 
   .social-networks > li {
     padding: 1rem 1rem;
@@ -205,6 +205,10 @@ footer {
   .button {
     margin-top: 2rem;
   }
+
+  .fake-button {
+    margin-top: 2rem;
+  }
   
   #question-tracker-container {
     padding-top: 0rem;
@@ -221,6 +225,9 @@ footer {
   }
 
   .button {
+    margin-top: 1rem;
+  }
+  .fake-button {
     margin-top: 1rem;
   }
 }
