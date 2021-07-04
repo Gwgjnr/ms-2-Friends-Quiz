@@ -88,12 +88,12 @@ let questionsArray = [
         answer: "C"
     },
     {
-        question: "What’s the name of Joey’s pet penguin in Friends?",
-        optionA: "Fluffy",
-        optionB: "Channy",
-        optionC: "Hugsy",
-        optionD: "Ben",
-        answer: "C"
+        question: "What’s the name of Joey’s agent?",
+        optionA: "Ruby",
+        optionB: "Estelle",
+        optionC: "Charlie",
+        optionD: "Leanne",
+        answer: "B"
     },
     {
         question: "What’s the name of the grumpy person who works at the coffee shop?",
@@ -136,11 +136,28 @@ let questionsArray = [
         answer: "B"
     },
     {
-        question: "What kind of uniform does Joey wear to Monica and Chandler’s wedding?",
-        optionA: "Chef",
-        optionB: "Soldier",
-        optionC: "Fire fighter",
-        optionD: "A baseball player",
+        question: "What film star catches Joey in his shower on set?",
+        optionA: "Charlton Heston",
+        optionB: "Jack Nicholson",
+        optionC: "Al Pacino",
+        optionD: "Robert De Niro",
+        answer: "A"
+    },
+    {
+        question: "What was Monica's boyfriend Richard's profession",
+        optionA: "Eye doctor",
+        optionB: "Pediatrician",
+        optionC: "Surgeon",
+        optionD: "Orthodontist",
+        answer: "A"
+    },
+    {
+        question: "What was Pheobe's twin sister's name?",
+        optionA: "Regina",
+        optionB: "Ursula",
+        optionC: "Lisa",
+        optionD: "Una",
         answer: "B"
     },
+    
 ]
