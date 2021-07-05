@@ -62,7 +62,7 @@ The target audience for this quiz is the fanbase of the tv show. This is an very
 
 The color scheme was inspired initially Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise were chosen to compliment these colours.
 
-![Colour palette](assets/images/color.scheme.png)
+![Colour palette](assets/images/color.scheme.PNG)
 
 - **Typography**
 
