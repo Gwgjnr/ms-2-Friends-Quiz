@@ -240,5 +240,6 @@ I need to credit:
 
 I would like to thank: 
 
+- The Tutor support team for great advise throughout this project. 
 - My mentor, Spencer Barribell for his guidance and patience when I encountered issues.
 - My girlfriend Francesca, for allowing me to bounce ideas off her and for testing the quiz more times than I can count.

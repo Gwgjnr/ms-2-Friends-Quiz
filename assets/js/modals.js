@@ -1,3 +1,5 @@
+// This code was created using the W3S tutorial for Modals, link in acknowledgements
+
 const instructionModal = document.getElementById("instructionModal");
 const instructionBtn = document.getElementById("instructionButton");
 const highScoreModal = document.getElementById("highScoreModal");
