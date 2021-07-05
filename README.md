@@ -156,7 +156,7 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 - User Experience Testing
 
-  - When first creating the quiz, I arranged the answer options in a column which was suitable for smaller screens but found that it left large areas empty on computer screens. To resolve this, I used media queries to arrange them in 2 rows on screen sizes above 490px. 
+  - When first creating the quiz, I initially arranged the answer options in a column which was suitable for smaller screens but found that it left large areas empty on computer screens. To resolve this, I used media queries to arrange them in 2 rows on screen sizes above 490px. 
 
   - When the quiz was first being tested we found that the same question could be displayed within the same game, this was resolved by adding a splice to the question selector which then removed that question from the array temporarily. 
 
@@ -164,7 +164,11 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 - Validators
 
-  - 
+- Please see [here](assets/images/homepagevalid.PNG) for image of the homepage HTML Validator.
+
+- Please see [here](assets/images/questionpagevalid.PNG) for image of the Question page HTML Validator.
+
+- Please see [here](assets/images/cssvalid.PNG) for CSS Validator.
 
 ## **Deployment**
 
