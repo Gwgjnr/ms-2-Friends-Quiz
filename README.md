@@ -2,12 +2,10 @@
 
 An Interactive Front-End Development Project using HTML, CSS and Javascript
 
-A live website can be found [here](X).
-
 ## **Table of Contents**
 
 - [About](<#About>)
-- [Users Experience(UX)](<#users-experience(ux)>)
+- [Users Experience](<#users-experience>)
   - [Project Goals](#project-goals)
   - [Target Audience](#target-audience)
   - [User Stories](#user-stories)
@@ -22,11 +20,25 @@ A live website can be found [here](X).
 
 ## **About**
 
-## **Users Experience (UX)**
+Welcome to my Friends TV Show Quiz!
+
+As a huge fan of online quizzes from the weekly Joe.ie quiz to history quizzes on Sporacle, I thought this would be a great opportunity to create my own. I decided on a quiz about the TV show Friends as it is extremely popular and has a huge fanbase that loves testing their knowledge.
+
+The questions range from very easy to extremely tricky with only a Friends fanatic being able to answer all of them correctly. 
+
+The live website can be found [here](X).
+
+## **Users Experience**
 
 ### **Project Goals**
 
+When creating this quiz, my first goal was to ensure a fun experience for fans of Friends which would test their trivia knowledge with a intuitive design. 
+
+My second gaol was to further my understanding and proficiency with javascript as this is my first interactive front-end development project.
+
 ### **Target Audience**
+
+The target audience for this quiz is the fanbase of the tv show. This is an very large group as the show was initially released in 1994 but gained popularity again in recent years through services such as Netflix.
 
 ### **User Stories**
 
