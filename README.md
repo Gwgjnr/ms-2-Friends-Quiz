@@ -94,7 +94,7 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 - Add a multiplayer option so you can play against your friend and see how knows more. 
 
-- Add a share score feature so people can brag about their score and promote the site on social media.
+- Add a share score feature so people can share about their score with their friends and promote the site through social media.
 
 ## **Technologies Used**
 
@@ -208,8 +208,13 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 ## **Acknowledgements**
 
-I need to credit: 
+I need to credit:
 
-I would like to thank:
+[James Q Quick's youtube videos](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)
 
-- 
+[CodeExplained quiz youtube videos](https://www.youtube.com/watch?v=49pYIMygIcU)
+
+I would like to thank: 
+
+- My mentor, Spencer Barribell for his guidance and patience when I encountered issues.
+- My girlfriend Francesca, for allowing me to bounce ideas off her and for testing the quiz more times than I can count.
