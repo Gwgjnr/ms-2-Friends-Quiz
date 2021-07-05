@@ -1,4 +1,4 @@
-# MS-2-FRIENDS-QUIZ
+# [MS-2-FRIENDS-QUIZ](https://gwgjnr.github.io/ms-2-Friends-Quiz/)
 
 An Interactive Front-End Development Project using HTML, CSS and Javascript
 
@@ -26,7 +26,7 @@ As a huge fan of online quizzes from the weekly Joe.ie quiz to history quizzes o
 
 The questions range from very easy to extremely tricky with only a Friends fanatic being able to answer all of them correctly. 
 
-The live website can be found [here](X).
+The live website can be found [here](https://gwgjnr.github.io/ms-2-Friends-Quiz/).
 
 ## **Users Experience**
 
