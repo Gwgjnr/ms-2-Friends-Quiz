@@ -38,19 +38,31 @@ My second gaol was to further my understanding and proficiency with javascript a
 
 ### **Target Audience**
 
-The target audience for this quiz is the fanbase of the tv show. This is an very large group as the show was initially released in 1994 but gained popularity again in recent years through services such as Netflix.
+The target audience for this quiz is the fanbase of the tv show. This is an very large group as the show was initially released in 1994 but gained popularity again in recent years through services such as Netflix. I believe the majotiy of this group would be between 18 - 30.
 
 ### **User Stories**
 
 - **General User Goals**
+ - As a fan of the Friends TV Show, I want enjoy activities related to the show. 
+ - As a fan of online quizzes, I want to test and measure my knowledge to see how much I know. 
 
-- **First Time Visitor Goals**
+- **First Time User Goals**
+ - As a first time user, I want to easily understand how to navigate the site and play the game. 
+ - I want to have an enjoyable experience, playing the quiz which entices me to return.
+ - I want to be challenged at stages to test my knowledge.
 
-- **Returning Visitor Goals**
+- **Returning User Goals**
+ - As a returning user, I want to be able to play the quiz multiple times and still encounter new questions.
+ - I want to beat my best score which will be saved in local storage. 
+
 
 ### **Design**
 
 - **Colour Scheme**
+
+The color scheme was inspired initially Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise were chosen to compliment these colours.
+
+![Colour palette](assets/images/color.scheme.png)
 
 - **Typography**
 
