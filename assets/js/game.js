@@ -42,6 +42,7 @@ function checkCorrect(answers){
     }
     if( question_tracker == 20){
         gameOver();
+        saveHighScore();
         scoreCon1.innerHTML = score_tracker;
     }
 
