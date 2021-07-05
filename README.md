@@ -34,7 +34,7 @@ The live website can be found [here](X).
 
 When creating this quiz, my first goal was to ensure a fun experience for fans of Friends which would test their trivia knowledge with a intuitive design. 
 
-My second gaol was to further my understanding and proficiency with javascript as this is my first interactive front-end development project.
+My second goal was to further my understanding and proficiency with javascript as this is my first interactive front-end development project.
 
 ### **Target Audience**
 
@@ -43,24 +43,24 @@ The target audience for this quiz is the fanbase of the tv show. This is an very
 ### **User Stories**
 
 - **General User Goals**
-  - As a fan of the Friends TV Show, I want enjoy activities related to the show. 
+  - As a fan of the Friends TV Show, I want to enjoy activities related to the show. 
   - As a fan of online quizzes, I want to test and measure my knowledge to see how much I know. 
 
 - **First Time User Goals**
   - As a first time user, I want to easily understand how to navigate the site and play the game. 
-  - I want to have an enjoyable experience, playing the quiz which entices me to return.
+  - I want to have an enjoyable experience playing the quiz which entices me to return.
   - I want to be challenged at stages to test my knowledge.
 
 - **Returning User Goals**
   - As a returning user, I want to be able to play the quiz multiple times and still encounter new questions.
-  - I want to beat my best score which will be saved in local storage. 
+  - I want to beat my high score which will be saved in local storage. 
 
 
 ### **Design**
 
 - **Colour Scheme**
 
-The color scheme was inspired initially Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise were chosen to compliment these colours and create a fun theme. 
+The color scheme was inspired initially by Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise was chosen to compliment these colours and create a fun theme. 
 
 ![Colour palette](assets/images/color.scheme.PNG)
 
@@ -76,7 +76,7 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 ![homepage image](assets/images/homepage.PNG)
 
-- Homepage which consists of buttons for instructions, high score and play.
+- Homepage which consists of 3 buttons for instructions, high score and play.
 
 - Footer on homepage with clickable social media icons for navigating to related pages. 
 
@@ -136,9 +136,9 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
   - Google DevTools was used throughout this project for styling, testing and debugging purposes.
 
-- [Am I Responsive](http://ami.responsivedesign.is/)
+- [Jshint](https://jshint.com/)
 
-  - Am I responsive has been used to test the responsiveness of the site and also to create the mock-up image presented at the start of this document.
+  - Jshint was used to test for errors in the JS files.
 
 - [W3C Markup Validation service](https://validator.w3.org/)
 
@@ -170,11 +170,13 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 - Please see [here](assets/images/cssvalid.PNG) for CSS Validator.
 
+- All JS files passed through Jshint without logging errors.
+
 ## **Deployment**
 
 ### **Deploy To GitHub Pages**
 
-1. Logged into Github account.
+1. Log into Github account.
 
 2. Select repository.
 
@@ -228,9 +230,13 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 I need to credit:
 
-[James Q Quick's youtube videos](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)
+[W3S Modal Tutorials](https://www.w3schools.com/howto/howto_css_modals.asp)
 
-[CodeExplained quiz youtube videos](https://www.youtube.com/watch?v=49pYIMygIcU)
+[The Love Running Project for the footer HTML structure](https://github.com/Code-Institute-Org/love-running-2.0/blob/main/index.html)
+
+[James Q Quick's youtube videos for creating highscore](https://www.youtube.com/playlist?list=PLDlWc9AfQBfZIkdVaOQXi1tizJeNJipEx)
+
+[CodeExplained quiz youtube videos for general guide](https://www.youtube.com/watch?v=49pYIMygIcU)
 
 I would like to thank: 
 

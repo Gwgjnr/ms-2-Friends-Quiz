@@ -10,7 +10,7 @@ const questionCon = document.getElementById("question_tracker");
 let question_tracker = 1;
 let score_tracker = 0;
  
-pickQuestion()
+pickQuestion();
  
 function pickQuestion(){
     const randomQuestion = Math.floor(Math.random() * questionsArray.length);
@@ -33,7 +33,7 @@ function loadQuestion(){
  
 function checkCorrect(answers){
     if( answers == currentQ.answer){
-        score_tracker++
+        score_tracker++;
         scoreCon.innerHTML = score_tracker + " correct";
         
     }
@@ -43,9 +43,9 @@ function checkCorrect(answers){
         scoreCon1.innerHTML = score_tracker;
     }
  
-    question_tracker++
+    question_tracker++;
     questionCon.innerHTML = "Question " + question_tracker + "/20";
-    pickQuestion()
+    pickQuestion();
 }
  
 function gameOver() {

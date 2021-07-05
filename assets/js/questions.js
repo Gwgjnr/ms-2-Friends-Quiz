@@ -223,5 +223,4 @@ let questionsArray = [
         optionD: "Las Vegas",
         answer: "A"
     },
-    
-]
+];
