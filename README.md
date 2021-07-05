@@ -1,59 +1,175 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# MS-2-FRIENDS-QUIZ
 
-Welcome Gwgjnr,
+An Interactive Front-End Development Project using HTML, CSS and Javascript
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+A live website can be found [here](X).
 
-## Gitpod Reminders
+## **Table of Contents**
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- [About](<#About>)
+- [Users Experience(UX)](<#users-experience(ux)>)
+  - [Project Goals](#project-goals)
+  - [Target Audience](#target-audience)
+  - [User Stories](#user-stories)
+  - [Design](#design)
+- [Features](#Features)
+  - [Existing Features](#existing-features)
+  - [Future Features](#Future-features)
+- [Technologies-Used](#Technologies-Used)
+- [Testing](#Testing)
+- [Deployment](#Deployment)
+- [Acknowledgements](#Acknowledgements)
 
-`python3 -m http.server`
+## **About**
 
-A blue button should appear to click: _Make Public_,
+## **Users Experience (UX)**
 
-Another blue button should appear to click: _Open Browser_.
+### **Project Goals**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### **Target Audience**
 
-A blue button should appear to click: _Make Public_,
+### **User Stories**
 
-Another blue button should appear to click: _Open Browser_.
+- **General User Goals**
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- **First Time Visitor Goals**
 
-To log into the Heroku toolbelt CLI:
+- **Returning Visitor Goals**
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### **Design**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+- **Colour Scheme**
 
-## Updates Since The Instructional Video
+- **Typography**
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+  - 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+  - 
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+## **Features**
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### **Existing Features**
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### **Future Features**
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## **Technologies Used**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### **Languages Used**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+- [HTML5](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,displayed%20in%20a%20web%20browser.)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+  - The language used to give the site its main structure and all necessary features.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
----
+  - The language used to give the application its visual effects including the font, color and layout etc.
 
-Happy coding!
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+  - The language used to implement the site's interactive features, allow the users to be interactive and make actions during their visit.
+
+### Frameworks, Libraries & Programs Used
+
+- [Gitpod](https://code.gitpod.io/)
+
+  - Gitpod has been used as a local code editor to write and manage all codes and files.
+
+- [Github](https://github.com/)
+
+  - Github is used to create, store and maintain all codes in a repository.
+
+  - Github is also used as the site hosting service for the final website to be published on.
+
+- [Google Fonts](https://fonts.google.com/)
+
+  - The font used on this quiz were chosen from Google fonts.
+
+- [Fontawesome](https://fontawesome.com/)
+
+  - The icons used on this quiz were found in Fontawesome.
+
+- [Google DevTools](https://developer.chrome.com/docs/devtools/)
+
+  - Google DevTools was extensively used throughout the project for various styling, testing and debugging purposes.
+
+- [Am I Responsive](http://ami.responsivedesign.is/)
+
+  - Am I responsive has been used to test the responsiveness of the site and also to create the mock-up image presented at the start of this document.
+
+- [W3C Markup Validation service](https://validator.w3.org/)
+
+  - W3C Markup Validation Service has been used to test the HTML codes.
+
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+  - W3C CSS Validation Service has been used to test the CSS codes.
+
+- [coolors](https://coolors.co/)
+
+  - coolors has been used to decide the color scheme for the site.
+
+## **Testing**
+
+
+
+## **Deployment**
+
+### **Deploy To GitHub Pages**
+
+1. Logged into Github account.
+
+2. Select repository.
+
+3. Select MS-2-FRIENDS-QUIZ.
+
+4. On the top right navigation click on settings.
+
+5. Under the settings section, scroll down to the GitHub Pages section.
+
+6. Select Main Branch from the source dropdown menu.
+
+7. Click save.
+
+8. Once clicked, this publishes the project to GitHub Pages and displays the site URL. Click on the URL to view the live site.
+
+### **Making a clone or download zip to run locally**
+
+1. Log into GitHub account.
+
+2. Select repository.
+
+3. Select MS-2-FRIENDS-QUIZ.
+
+4. Click on the Code dropdown button next to the green Gitpod button.
+
+5. Click on the clipboard icon to copy the clone URL.
+
+6. Open Git Bash.
+
+7. Change the current working directory to the location where you want the cloned directory.
+
+8. Type "git clone" in the Command Line and then paste the URL copied in step 5.
+
+9. Press enter to create your local clone.
+
+10. Alternately, click on Download ZIP, unpack locally and open with a local code editor.
+
+### **Forking the GitHub Repository**
+
+1. Log into GitHub.
+
+2. Select repository.
+
+3. Select MS-2-FRIENDS-QUIZ.
+
+4. At the very top right corner click "fork".
+
+5. You will have a copy of the original repository in your own GitHub account.
+
+## **Acknowledgements**
+
+I need to credit: 
+
+I would like to thank:
+
+- 
