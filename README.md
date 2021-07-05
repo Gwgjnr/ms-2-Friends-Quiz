@@ -43,36 +43,50 @@ The target audience for this quiz is the fanbase of the tv show. This is an very
 ### **User Stories**
 
 - **General User Goals**
- - As a fan of the Friends TV Show, I want enjoy activities related to the show. 
- - As a fan of online quizzes, I want to test and measure my knowledge to see how much I know. 
+  - As a fan of the Friends TV Show, I want enjoy activities related to the show. 
+  - As a fan of online quizzes, I want to test and measure my knowledge to see how much I know. 
 
 - **First Time User Goals**
- - As a first time user, I want to easily understand how to navigate the site and play the game. 
- - I want to have an enjoyable experience, playing the quiz which entices me to return.
- - I want to be challenged at stages to test my knowledge.
+  - As a first time user, I want to easily understand how to navigate the site and play the game. 
+  - I want to have an enjoyable experience, playing the quiz which entices me to return.
+  - I want to be challenged at stages to test my knowledge.
 
 - **Returning User Goals**
- - As a returning user, I want to be able to play the quiz multiple times and still encounter new questions.
- - I want to beat my best score which will be saved in local storage. 
+  - As a returning user, I want to be able to play the quiz multiple times and still encounter new questions.
+  - I want to beat my best score which will be saved in local storage. 
 
 
 ### **Design**
 
 - **Colour Scheme**
 
-The color scheme was inspired initially Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise were chosen to compliment these colours.
+The color scheme was inspired initially Monica's purple apartment door with the yellow frame which is iconic on the show. The turquoise were chosen to compliment these colours and create a fun theme. 
 
 ![Colour palette](assets/images/color.scheme.PNG)
 
 - **Typography**
 
-  - 
+  - For the main headers, I chose "Gloria Hallelujah" from Google Fonts as this was quite similar to the styling of the Friends logo with an aim to inspire nostalgia. 
 
-  - 
+  - For the text throughout the body, I chose "Roboto" as I thought this complimented the header font and was quite clear to read on the buttons. 
 
 ## **Features**
 
 ### **Existing Features**
+
+- Homepage which consists of buttons for instructions, high score and play.
+
+![homepage image](assets/images/homepage.PNG)
+
+- Footer on homepage with clickable social media icons for navigating to related pages. 
+
+- Question counter - shows the current question you are on and how many you have left. 
+
+- Score tracker - shows how many questions you have got correct. 
+
+- Question display with buttons displaying the possible answers. 
+
+- Modal once quiz is complete to show your score and then direct you back to the homepage. 
 
 ### **Future Features**
 
@@ -133,8 +147,6 @@ The color scheme was inspired initially Monica's purple apartment door with the 
   - coolors has been used to decide the color scheme for the site.
 
 ## **Testing**
-
-
 
 ## **Deployment**
 
