@@ -74,11 +74,13 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 ### **Existing Features**
 
-- Homepage which consists of buttons for instructions, high score and play.
-
 ![homepage image](assets/images/homepage.PNG)
 
+- Homepage which consists of buttons for instructions, high score and play.
+
 - Footer on homepage with clickable social media icons for navigating to related pages. 
+
+![question page image](assets/images/questionpage.PNG)
 
 - Question counter - shows the current question you are on and how many you have left. 
 
@@ -90,21 +92,25 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 ### **Future Features**
 
+- Add a multiplayer option so you can play against your friend and see how knows more. 
+
+- Add a share score feature so people can brag about their score and promote the site on social media.
+
 ## **Technologies Used**
 
 ### **Languages Used**
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,displayed%20in%20a%20web%20browser.)
 
-  - The language used to give the site its main structure and all necessary features.
+  - The language used to give the site structure.
 
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
-  - The language used to give the application its visual effects including the font, color and layout etc.
+  - The language used to style the visual effects including the font, color and layout etc.
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  - The language used to implement the site's interactive features, allow the users to be interactive and make actions during their visit.
+  - The language used to implement the site's interactive features, allow the user to take actions throughout their vist to the site.
 
 ### Frameworks, Libraries & Programs Used
 
@@ -124,11 +130,11 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
 - [Fontawesome](https://fontawesome.com/)
 
-  - The icons used on this quiz were found in Fontawesome.
+  - The icons used on the footer were taken from Fontawesome.
 
 - [Google DevTools](https://developer.chrome.com/docs/devtools/)
 
-  - Google DevTools was extensively used throughout the project for various styling, testing and debugging purposes.
+  - Google DevTools was used throughout this project for styling, testing and debugging purposes.
 
 - [Am I Responsive](http://ami.responsivedesign.is/)
 
@@ -145,8 +151,6 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 - [coolors](https://coolors.co/)
 
   - coolors has been used to decide the color scheme for the site.
-
-## **Testing**
 
 ## **Deployment**
 
