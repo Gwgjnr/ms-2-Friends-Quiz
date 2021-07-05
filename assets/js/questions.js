@@ -5,7 +5,7 @@ let questionsArray = [
         optionB: "Pepperoni pizza",
         optionC: "Roast duck",
         optionD: "Jam",
-        answer: "A"
+        answer: "B"
     },
     {
         question: "What is Chandlers middle name?",

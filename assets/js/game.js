@@ -6,7 +6,6 @@ const optionD = document.getElementById("optionD");
 const scoreCon = document.getElementsByClassName("score_tracker")[0];
 const scoreCon1 = document.getElementsByClassName("score_tracker")[1];
 const questionCon = document.getElementById("question_tracker");
-const finalScore = document.getElementById("final_score")
  
 let question_tracker = 1;
 let score_tracker = 0;
@@ -20,8 +19,6 @@ function pickQuestion(){
     questionsArray.splice(randomQuestion, 1);
  
     loadQuestion(currentQ);
- 
-    // still need to remove the q when selected.
 }
  
 function loadQuestion(){
@@ -49,13 +46,6 @@ function checkCorrect(answers){
     question_tracker++
     questionCon.innerHTML = "Question " + question_tracker + "/20";
     pickQuestion()
-    // sessionStorage.setItem('mostRecentScore', score);
-}
- 
- 
-function showHighScore(){
-// Store in local and display using inner.html
-// will need to remove lowest score
 }
  
 function gameOver() {

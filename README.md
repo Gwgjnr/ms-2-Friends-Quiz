@@ -152,6 +152,20 @@ The color scheme was inspired initially Monica's purple apartment door with the 
 
   - coolors has been used to decide the color scheme for the site.
 
+## **Testing**
+
+- User Experience Testing
+
+  - When first creating the quiz, I arranged the answer options in a column which was suitable for smaller screens but found that it left large areas empty on computer screens. To resolve this, I used media queries to arrange them in 2 rows on screen sizes above 490px. 
+
+  - When the quiz was first being tested we found that the same question could be displayed within the same game, this was resolved by adding a splice to the question selector which then removed that question from the array temporarily. 
+
+  - When testing different screen sizes, I found that some fonts were too large on mobile screens, this was resolved by adding media queries to reduce font sizes and also remove padding between buttons. 
+
+- Validators
+
+  - 
+
 ## **Deployment**
 
 ### **Deploy To GitHub Pages**
