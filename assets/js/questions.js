@@ -185,7 +185,7 @@ let questionsArray = [
     },
     {
         question: "When Ross and Rachel were on a break, Ross slept with Chloe. Where does she work?",
-        optionA: "Printing Shop",
+        optionA: "Copy Shop",
         optionB: "Coffee Shop",
         optionC: "Muesum",
         optionD: "The bank",
@@ -222,5 +222,101 @@ let questionsArray = [
         optionC: "Rome",
         optionD: "Las Vegas",
         answer: "A"
+    },
+    {
+        question: "Which part of the world does Chandler board a flight to in order to escape Janice in season 4?",
+        optionA: "Sudan",
+        optionB: "Yemen",
+        optionC: "Columbia",
+        optionD: "Italy",
+        answer: "B"
+    },
+    {
+        question: "What nationality is the girl Chandler and Joey argue over who they meet playing football?",
+        optionA: "German",
+        optionB: "Belgian",
+        optionC: "Dutch",
+        optionD: "English",
+        answer: "C"
+    },
+    {
+        question: "What is the name of Phoebe’s brother?",
+        optionA: "John",
+        optionB: "Frank",
+        optionC: "Phil",
+        optionD: "Greg",
+        answer: "B"
+    },
+    {
+        question: "What is the name of Ross and Carol’s baby?",
+        optionA: "George",
+        optionB: "Jack",
+        optionC: "Steve",
+        optionD: "Ben",
+        answer: "D"
+    },
+    {
+        question: "Which character shares an apartment with Chandler Bing in season one?",
+        optionA: "Ross",
+        optionB: "Monica",
+        optionC: "Joey",
+        optionD: "Rachel",
+        answer: "C"
+    },
+    {
+        question: "At the beginning of season one, which character has just jilted their fiancé?",
+        optionA: "Joey",
+        optionB: "Chandler",
+        optionC: "Monica",
+        optionD: "Rachel",
+        answer: "D"
+    },
+    {
+        question: "What is the name of the character played by Tom Selleck?",
+        optionA: "Joey",
+        optionB: "Chandler",
+        optionC: "Richard",
+        optionD: "Fun Bobby",
+        answer: "C"
+    },
+    {
+        question: "What character does Paul Rudd play?",
+        optionA: "Mike",
+        optionB: "Gunther",
+        optionC: "Ross",
+        optionD: "Frank",
+        answer: "A"
+    },
+    {
+        question: "Which cast member was the youngest when the show started?",
+        optionA: "Jennifer Aniston",
+        optionB: "Courteney Cox",
+        optionC: "Matt LeBlanc",
+        optionD: "Matthew Perry",
+        answer: "D"
+    },
+    {
+        question: "What was the name of Chandler’s psycho roommate?",
+        optionA: "Joey",
+        optionB: "Eddie",
+        optionC: "Rachel",
+        optionD: "Frank",
+        answer: "B"
+    },
+    {
+        question: "What name does Ross say at his wedding?",
+        optionA: "Monica",
+        optionB: "Pheobe",
+        optionC: "Rachel",
+        optionD: "Carol",
+        answer: "C"
+    },
+    {
+        question: "What does Rachel say is Chandler’s job?",
+        optionA: "Telesponder",
+        optionB: "Transponster",
+        optionC: "Technician",
+        optionD: "Analyst",
+        answer: "B"
     },
 ];
